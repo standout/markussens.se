@@ -1,0 +1,110 @@
+// [doc] Font size rem and px [/doc]
+@mixin font-size($sizeValue: 1.6, $weight: 300) {
+  $line: $sizeValue * 1.5;
+  font-size: $sizeValue * 1 + px;
+  line-height: $line * 1 + px;
+  font-size: $sizeValue / 10 + rem;
+  line-height: $line / 10 + rem;
+  font-weight: $weight;
+}
+
+// [doc] Position, used for positioning element in question [/doc]
+@mixin position($top: auto, $right: auto, $bottom: auto, $left: auto, $position: absolute) {
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+  position: $position;
+}
+
+// [doc] Box shadow [/doc]
+@mixin box-shadow($params) {
+  -moz-box-shadow: $params;
+  -webkit-box-shadow: $params;
+  box-shadow: $params;
+}
+
+// [doc] Box shadow multiple [/doc]
+@mixin box-shadow-multiple($params1, $params2) {
+  -moz-box-shadow: $params1, $params2;
+  -webkit-box-shadow: $params1, $params2;
+  box-shadow: $params1, $params2;
+}
+
+// [doc] Border radius [/doc]
+@mixin border-radius($radius) {
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+}
+
+// [doc] Transform [/doc]
+@mixin transform($params1, $params2) {
+  -moz-transform: translate($params1, $params2);
+  -webkit-transform: translate($params1, $params2);
+  transform: translate($params1, $params2);
+}
+
+// [doc] Calc() [/doc]
+@mixin calc($property, $expression) {
+  #{$property}: -webkit-calc(#{$expression});
+  #{$property}: -moz-calc(#{$expression});
+  #{$property}: calc(#{$expression});
+}
+
+// [doc] Hide [/doc]
+@mixin visually-hide {
+  display: none;
+  visibility: hidden;
+}
+
+// [doc] Show [/doc]
+@mixin visually-show {
+  display: block;
+  visibility: visible;
+}
+
+// [doc] Split long words over multiple lines. Useful for hyperlinks. [/doc]
+%prevent-text-breakouts {
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+// [doc] Truncate single line text and cap it with an ellipsis. [/doc]
+%truncate-text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+// [doc] Inline centered list [/doc]
+%centered-list {
+  text-align: center;
+  li {
+    float: none;
+    display: inline-block;
+    a,
+    span {
+      display: block;
+    }
+  }
+}
+
+// [doc] Inline list [/doc]
+%inline-list {
+  li {
+    float: none;
+    display: inline-block;
+    a,
+    span {
+      display: block;
+    }
+  }
+}
+
+// [doc] Cancels out the default font-smoothing: antialiased effect. [/doc]
+%subpixel-text {
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: auto;
+  font-smoothing: subpixel-antialiased;
+}

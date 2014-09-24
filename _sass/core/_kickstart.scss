@@ -1,0 +1,151 @@
+// -----------------------------------------------------------------------------
+// Box sizing
+// -----------------------------------------------------------------------------
+*,
+*:before,
+*:after {
+  @include box-sizing(border-box);
+}
+
+// -----------------------------------------------------------------------------
+// Defaults
+// -----------------------------------------------------------------------------
+html {
+  font-size: 60%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  @include breakpoint($xlarge) {
+    font-size: 62.5%;
+  }
+}
+
+body {
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: $font-sans;
+  font-style: normal;
+  background: $subduedgray;
+  color: $textColour;
+  @include font-size(14);
+  @extend %subpixel-text;
+  opacity: 1;
+}
+
+// -----------------------------------------------------------------------------
+// Text selection
+// -----------------------------------------------------------------------------
+::-moz-selection {
+  background-color: $teal;
+  color: $white;
+}
+
+::selection {
+  background-color: $teal;
+  color: $white;
+}
+
+// -----------------------------------------------------------------------------
+// Responsive images and videos
+// -----------------------------------------------------------------------------
+img,
+video {
+  @include image-rendering(crisp-edges);
+  max-width: 100%;
+  height: auto;
+}
+
+// -----------------------------------------------------------------------------
+// Clean up
+// -----------------------------------------------------------------------------
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+// -------------------------------------
+//   Links
+// -------------------------------------
+a {
+  color: $linkblue;
+}
+
+a,
+button {
+  @include transition(all 200ms linear);
+  cursor: pointer;
+  text-decoration: none;
+  &:before,
+  &:after {
+    @include transition(all 200ms linear);
+  }
+}
+
+a:focus,
+button:focus {
+  outline: 0;
+}
+
+a:active,
+a:hover,
+button:active,
+button:hover {
+  outline: 0;
+  text-decoration: none;
+}
+
+// -----------------------------------------------------------------------------
+// Tables
+// -----------------------------------------------------------------------------
+.table {
+  margin: 1rem 0 2rem 0;
+  min-width: 300px;
+  width: 100%;
+  tr {
+    &:nth-child(odd) {
+      td {
+        background: $subduedgray;
+      }
+    }
+  }
+  th {
+    display: none;
+    background: $bodygray;
+    font-weight: 300;
+    color: $white;
+  }
+  td {
+    display: block;
+    &:first-child {
+      padding-top: .5rem;
+    }
+    &:last-child {
+      padding-bottom: .5rem;
+    }
+    &:before {
+      content: attr(data-th) ": ";
+      font-weight: 400;
+      width: 12rem;
+      padding-left: .75rem;
+      display: inline-block;
+      @include breakpoint($medium) {
+        display: none;
+      }
+    }
+  }
+  th, td {
+    text-align: left;
+    line-height: 2.5rem;
+    @include breakpoint($medium) {
+      display: table-cell;
+      padding: .5rem .75rem;
+    }
+  }
+}
