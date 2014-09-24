@@ -1,15 +1,58 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<!--[if lt IE 9]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="sv-SE"> <!--<![endif]-->
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Markussens-studiefond by standout</title>
-    <meta name="description" content="{{ page.description }}"/>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0 user-scalable=no, minimal-ui">
+
+    <title>{{ page.title }}</title>
+    <meta property="og:site_name" content="{{ site.name }}">
+
+    <!-- icons & favicons -->
+    <link rel="apple-touch-icon" href="apple-icon-touch.png">
+    <link rel="icon" href="favicon.png">
+    <!--[if IE]>
+      <link rel="shortcut icon" href="favicon.ico">
+    <![endif]-->
+    <meta name="msapplication-TileColor" content="######">
+    <meta name="msapplication-TileImage" content="win8-tile-icon.png">
+
+    {% if page.title %}
+      <meta property="og:title" content="{{ page.title }}">
+      <meta property="og:type" content="article">
+    {% else %}
+      <meta property="og:title" content="{{ site.title }}">
+      <meta property="og:type" content="website">
+    {% endif %}
+
+    {% if page.description %}
+      <meta property="og:description" content="{{ page.description }}">
+    {% endif %}
+
+    {% if page.date %}
+      <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    {% endif %}
+
+    {% if page.image %}
+      <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
+    {% endif %}
+
+    {% if page.url %}
+      <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    {% endif %}
 
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
   </head>
+  <body>
+
+  {% include head.html %}
