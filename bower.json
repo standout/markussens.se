@@ -1,0 +1,25 @@
+{
+  "name": "markussens.se",
+  "version": "0.0.1",
+  "homepage": "https://github.com/standout/markussens.se",
+  "authors": [
+    "Metin Ucar <metin.ucar@standout.se>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize-css": "~3.0.1",
+    "breakpoint-sass": "~2.5.0",
+    "singularity": "~1.4.0",
+    "bourbon": "~4.0.2"
+  }
+}

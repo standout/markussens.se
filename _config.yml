@@ -1,0 +1,13 @@
+# Site settings
+name: Markussens Studiefond
+description: "Stiftelsen Markussens Studiefond"
+url: "markussens.se"
+
+# Display settings
+markdown: kramdown
+permalink: pretty
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass

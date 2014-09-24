@@ -1,0 +1,65 @@
+// -----------------------------------------------------------------------------
+// Import Google Fonts
+// -----------------------------------------------------------------------------
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic");
+
+// -----------------------------------------------------------------------------
+// Typography
+// -----------------------------------------------------------------------------
+$font-sans    : "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-text    : Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+
+// -----------------------------------------------------------------------------
+// Standard Digge text treatments
+// -----------------------------------------------------------------------------
+h1 {
+    @include font-size(22);
+}
+
+h2 {
+    @include font-size(20);
+}
+
+h3 {
+    @include font-size(18);
+}
+
+h4 {
+    @include font-size(16);
+}
+
+h5 {
+    @include font-size(15);
+}
+
+h6 {
+    @include font-size(14);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 .5rem 0;
+    font-family: inherit;
+    font-weight: 700;
+}
+
+small,
+.font_small {
+    @include font-size(12);
+}
+
+strong {
+    font-weight: 700;
+}
+
+p {
+    margin: 0 0 1.5rem 0;
+    @include breakpoint($large) {
+        margin-bottom:2rem
+    }
+}
