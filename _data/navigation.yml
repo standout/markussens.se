@@ -1,0 +1,11 @@
+- name: Start
+  url: /
+
+- name: Presentation
+  url: /presentation/
+
+- name: Historik
+  url: /historik/
+
+- name: Ansök nu
+  url: /ansok/

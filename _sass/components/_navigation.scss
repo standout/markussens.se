@@ -1,1 +1,47 @@
+nav {
+  background: $teal;
+  width: 100%;
 
+  ul {
+    @extend %inline-list;
+    text-align: center;
+    max-width: $width_max;
+    margin: 0 auto;
+    padding: 1.5rem 0;
+    @include breakpoint($medium) {
+      padding: 1.5rem;
+    }
+    @include breakpoint($large) {
+      text-align: left;
+    }
+  }
+
+  a {
+    color: $white;
+    padding: 0 1rem;
+    margin: .25rem .125rem .25rem .125rem;
+    @include box-shadow(0 0 0 1px rgba($white, .5));
+    text-shadow: 0 0 1px darken($teal,10%);
+
+    @include breakpoint($medium) {
+      padding: 0 1.625rem;
+      margin: .25rem .375rem .25rem .25rem;
+    }
+
+    @include breakpoint($large) {
+      &:hover {
+        background: $white;
+        color: $teal;
+        @include box-shadow(0 0 0 1px $white);
+        text-shadow: none;
+      }
+    }
+
+    &.active {
+      background: $white;
+      color: $teal;
+      @include box-shadow(0 0 0 1px $white);
+      text-shadow: none
+    }
+  }
+}

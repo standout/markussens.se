@@ -1,0 +1,90 @@
+footer {
+  background-color: $teal;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAPCAQAAAC/mnxTAAAANUlEQVQoU2OQlGQAAmRSQgKdRBaHsOkMcDkD05HI4nQG+J03SEISf7jh8gKdATFOwlRDXwAA0ucIo9dh8k4AAAAASUVORK5CYII=);
+  background-repeat: repeat;
+  background-position: top left;
+  padding: 4rem;
+  @include font-size(14);
+  @include clearfix;
+
+  @include add-grid(12);
+  @include add-gutter(0);
+
+  .inner {
+    width: 100%;
+    max-width: $width_max;
+    margin: 0 auto;
+  }
+
+  .inner--left,
+  .inner--right {
+    @include float-span(12);
+    text-align: center;
+    @include breakpoint($large) {
+      @include float-span(6);
+      text-align: left;
+    }
+  }
+
+  .inner--left {
+    color: $white;
+    margin-bottom: 2rem;
+    @include breakpoint($large) {
+      margin-bottom: 0
+    }
+    p {
+      margin: .5rem 0;
+      text-shadow: 0 1px 1px darken($teal,15%);
+      clear: both;
+    }
+    a {
+      clear: both;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: .75rem;
+      display: block;
+      width: $three_quarters;
+      @include breakpoint($medium) {
+        width: $half;
+      }
+      @include breakpoint($large) {
+        float: left;
+        margin-left: 0;
+        margin-right: 0;
+        width: auto;
+        &:hover {
+          background: transparent;
+          color: $white;
+          @include box-shadow(inset 0 0 0 1px $white);
+        }
+      }
+    }
+  }
+
+  .inner--right {
+    img {
+      float: none;
+      max-width: $two_third;
+      @include clearfix;
+      @include breakpoint($medium) {
+        max-width: $half;
+      }
+      @include breakpoint($large) {
+        float: right;
+        max-width: $three_quarters;
+      }
+    }
+    span {
+      clear: both;
+      display: block;
+      text-align: center;
+      color: darken($teal, 15%);
+      font-style: italic;
+      font-weight: 400;
+      padding-top: .5rem;
+      @include breakpoint($large) {
+        text-align: right;
+      }
+    }
+  }
+}

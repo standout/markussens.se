@@ -1,0 +1,41 @@
+// -----------------------------------------------------------------------------
+// Default
+// -----------------------------------------------------------------------------
+.button {
+  text-align: center;
+  color: $teal;
+  background: $white;
+  text-transform: lowercase;
+  border: 2px solid $teal;
+  @include border-radius($radius_global);
+  padding: 0 2rem;
+  margin: 0 0 1rem 0;
+  display: inline-block;
+  text-shadow: none;
+  line-height: 3rem;
+
+  &:hover {
+    @include breakpoint($large) {
+      background: $teal;
+      color: $white;
+    }
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Primary
+// -----------------------------------------------------------------------------
+.button--primary {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  text-transform: uppercase;
+  padding: 0.5rem 4rem;
+  color: $red;
+  border-color: $red;
+  font-weight: 400;
+  &:hover {
+    @include breakpoint($large) {
+      background: $red
+    }
+  }
+}

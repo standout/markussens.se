@@ -3,15 +3,11 @@
 // -------------------------------------
 // Defaults
 $breakpoint-to-ems	: true;
-$small         		: 20em; /* min-width 320px, small screens */
-$small_medium   	: 20em 40.063em;
-$medium         	: 40.063em; /* min-width 641px, medium screens */
-$medium_large   	: 40.063em 64.063em;
-$large          	: 64.063em; /* min-width 1025px, large screens */
-$large_xlarge   	: 64.063em 90.063em;
-$xlarge         	: 90.063em; /* min-width 1441px, xlarge screens */
-$xlarge_xxlarge 	: 90.063em 120.063em;
-$xxlarge        	: 120.063em; /* min-width 1921px, xxlarge screens */
+$small         		  : 20em; /* min-width 320px, small screens */
+$small_medium   	  : 20em 40.063em;
+$medium         	  : 40.063em; /* min-width 641px, medium screens */
+$medium_large       : 40.063em 64.063em;
+$large          	  : 64.063em; /* min-width 768px, large screens */
 
 // Orientation breakpoints
 $mobile_landscape	: (20em 40.063em) (orientation landscape);
@@ -31,8 +27,10 @@ $two_third			  : percentage(2/3);
 $one_fifth			  : percentage(1/5);
 $four_fifth			  : percentage(4/5);
 
+$width_max        : 768px;
+
 // -------------------------------------
 //   Radius
 // -------------------------------------
-$radius_global		: 4px;
+$radius_global		: 3px;
 $radius_round		  : 50%;
