@@ -1,3 +1,21 @@
 <header>
-  <h1><a href="/">{{ site.name }}</a></h1>
+  <div class="overlay"></div>
+
+  <h1 class="brand">{{ site.name }}</h1>
+
 </header>
+
+<nav role="navigation">
+  <ul>
+    {% for nav in site.data.navigation %}
+      {% assign current = nil %}
+      {% assign url = page.url|remove:'index.html' %}
+      {% if url == nav.url %}
+        {% assign current = 'active' %}
+      {% endif %}
+      <li>
+        <a class="{{current}}" href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.name }}">{{ nav.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
