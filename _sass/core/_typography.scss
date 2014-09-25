@@ -1,36 +1,36 @@
 // -----------------------------------------------------------------------------
 // Import Google Fonts
 // -----------------------------------------------------------------------------
-@import url("http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic");
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic");
 
 // -----------------------------------------------------------------------------
 // Typography
 // -----------------------------------------------------------------------------
 $font-sans    : "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-text    : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$font-serif   : Georgia, Times, "Times New Roman", serif;
 
 
 // -----------------------------------------------------------------------------
-// Standard Digge text treatments
+// Defaults
 // -----------------------------------------------------------------------------
 h1 {
-    @include font-size(22);
+    @include font-size(24);
 }
 
 h2 {
-    @include font-size(20);
+    @include font-size(22);
 }
 
 h3 {
-    @include font-size(18);
+    @include font-size(20);
 }
 
 h4 {
-    @include font-size(16);
+    @include font-size(18);
 }
 
 h5 {
-    @include font-size(15);
+    @include font-size(16);
 }
 
 h6 {
@@ -45,7 +45,7 @@ h5,
 h6 {
     margin: 0 0 .5rem 0;
     font-family: inherit;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 small,
@@ -54,7 +54,7 @@ small,
 }
 
 strong {
-    font-weight: 700;
+    font-weight: 400;
 }
 
 p {
@@ -63,3 +63,19 @@ p {
         margin-bottom:2rem
     }
 }
+
+.align--center {
+  text-align: center
+}
+
+// -----------------------------------------------------------------------------
+// Titles
+// -----------------------------------------------------------------------------
+.title--section {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: $font-serif;
+  @include font-size(24);
+  letter-spacing: 1px
+}
+

@@ -1,6 +1,6 @@
 // [doc] Font size rem and px [/doc]
 @mixin font-size($sizeValue: 1.6, $weight: 300) {
-  $line: $sizeValue * 1.5;
+  $line: $sizeValue * 1.7;
   font-size: $sizeValue * 1 + px;
   line-height: $line * 1 + px;
   font-size: $sizeValue / 10 + rem;
@@ -39,10 +39,21 @@
 }
 
 // [doc] Transform [/doc]
-@mixin transform($params1, $params2) {
-  -moz-transform: translate($params1, $params2);
-  -webkit-transform: translate($params1, $params2);
-  transform: translate($params1, $params2);
+@mixin transform-horizontal($params) {
+  left: $params;
+  -moz-transform: translateX(-$params);
+  -webkit-transform: translateX(-$params);
+  transform: translateX(-$params);
+}
+
+// [doc] Background cover image [/doc]
+@mixin background-cover($params) {
+  -webkit-background-size: $params;
+  -moz-background-size: $params;
+  -o-background-size: $params;
+  background-size: $params;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 // [doc] Calc() [/doc]

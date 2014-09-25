@@ -14,20 +14,20 @@ html {
   font-size: 60%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  @include breakpoint($xlarge) {
-    font-size: 62.5%;
-  }
 }
 
 body {
   padding: 0;
+  margin: 0 auto;
   width: 100%;
+  max-width: $large;
   height: 100%;
   font-family: $font-sans;
   font-style: normal;
-  background: $subduedgray;
-  color: $textColour;
-  @include font-size(14);
+  overflow-x: hidden;
+  background: #f6f6f6;
+  color: $titlegray;
+  @include font-size(16);
   @extend %subpixel-text;
   opacity: 1;
 }

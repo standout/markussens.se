@@ -1,0 +1,48 @@
+header {
+  height: 28rem;
+  position: relative;
+
+  @include breakpoint($medium) {
+    height: 36rem;
+  }
+
+  @include breakpoint($large) {
+    height: 46rem;
+  }
+
+  .overlay {
+    background-image:url(../images/header-image.jpg);
+    @include background-cover(cover);
+    @include position(0,0,0,0,absolute);
+    &:after {
+      display: block;
+      @include position(0,0,0,0,absolute);
+      content: "";
+      @include linear-gradient(rgba($teal, .1), $teal);
+    }
+  }
+
+  .brand {
+    @include position(auto,0,0,0,absolute);
+    @include transform-horizontal(50%);
+    z-index: 50;
+    text-indent: -9999px;
+    background-image: url(../images/logo.svg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    height: 18rem;
+    width: 100%;
+    background-size: 32rem;
+    margin: 0;
+
+    @include breakpoint($medium) {
+      width: $three_quarters;
+    }
+
+    @include breakpoint($large) {
+      width: $width_max;
+      background-size: 40rem;
+      background-position: 1rem bottom
+    }
+  }
+}
