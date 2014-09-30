@@ -2,5 +2,4 @@ _site
 .sass-cache
 bower_components
 images/logo-footer.svg
-images/logo.png
 images/logo.svg

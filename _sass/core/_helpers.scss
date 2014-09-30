@@ -41,6 +41,7 @@
 // [doc] Transform [/doc]
 @mixin transform-horizontal($params) {
   left: $params;
+  -ms-transform: translateX(-$params);
   -moz-transform: translateX(-$params);
   -webkit-transform: translateX(-$params);
   transform: translateX(-$params);
