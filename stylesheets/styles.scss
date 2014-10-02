@@ -1,16 +1,15 @@
 ---
 ---
 
-@import "../bower_components/normalize-css/normalize.css";
-@import "../bower_components/sassy-maps/sass/sassy-maps";
-@import "../bower_components/breakpoint-sass/stylesheets/breakpoint";
-@import "../bower_components/singularity/stylesheets/singularitygs";
-@import "../bower_components/bourbon/dist/bourbon";
+@import "sassy-maps/sass/sassy-maps";
+@import "breakpoint-sass/stylesheets/breakpoint";
+@import "singularity/stylesheets/singularitygs";
+@import "bourbon/dist/bourbon";
 
-@import "../fonts/styles.css";
-
+@import "core/normalize";
 @import "core/config";
 @import "core/colour";
+@import "core/fonts";
 @import "core/helpers";
 @import "core/typography";
 @import "core/kickstart";

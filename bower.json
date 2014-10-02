@@ -17,9 +17,9 @@
     "tests"
   ],
   "devDependencies": {
-    "normalize-css": "~3.0.1",
     "breakpoint-sass": "~2.5.0",
     "singularity": "~1.4.0",
     "bourbon": "~4.0.2"
-  }
+  },
+  "dependencies": {}
 }
