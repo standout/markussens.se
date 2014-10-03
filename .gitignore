@@ -1,9 +1,4 @@
 _site
 .sass-cache
-_sass/bourbon/
-_sass/breakpoint-sass/
-_sass/normalize-css/
-_sass/sassy-maps/
-_sass/singularity/
 images/logo-footer.svg
 images/logo.svg
