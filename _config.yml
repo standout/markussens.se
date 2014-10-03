@@ -1,7 +1,7 @@
 # Site settings
 name: Markussens Studiefond
 description: "Stiftelsen Markussens Studiefond"
-url: "markussens.se"
+url: "http://markussens.se"
 
 # Display settings
 markdown: kramdown
