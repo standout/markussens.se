@@ -7,24 +7,34 @@ nav {
     text-align: center;
     max-width: $width_max;
     margin: 0 auto;
+    padding: 15px 0;
     padding: 1.5rem 0;
     @include breakpoint($medium) {
+      padding: 15px;
       padding: 1.5rem;
     }
     @include breakpoint($large) {
       text-align: left;
     }
+    .lt-ie9 & {
+      margin: 0;
+      padding: 0;
+    }
   }
 
   a {
     color: $white;
+    padding: 0 10px;
     padding: 0 1rem;
+    margin: 2px;
     margin: .25rem .125rem .25rem .125rem;
     @include box-shadow(0 0 0 1px rgba($white, .5));
     text-shadow: 0 0 1px darken($teal,10%);
 
     @include breakpoint($medium) {
+      padding: 0 15px;
       padding: 0 1.625rem;
+      margin: 3px;
       margin: .25rem .375rem .25rem .25rem;
     }
 
