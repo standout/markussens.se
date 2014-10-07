@@ -7,7 +7,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0 user-scalable=no, minimal-ui">
 
-    <title>{{ page.title }} | Stiftelsen Markussens Studiefond</title>
+    {% if page.title == 'Start' %}
+      <title>Stiftelsen Markussens Studiefond</title>
+    {% else %}
+      <title>{{ page.title }} | Stiftelsen Markussens Studiefond</title>
+    {% endif %}
+
     <meta property="og:site_name" content="{{ site.name }}">
 
     <!-- icons & favicons -->
