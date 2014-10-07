@@ -1,12 +1,15 @@
 header {
+  height: 240px;
   height: 28rem;
   position: relative;
 
   @include breakpoint($medium) {
+    height: 300px;
     height: 36rem;
   }
 
   @include breakpoint($large) {
+    height: 360px;
     height: 46rem;
   }
 
@@ -33,6 +36,7 @@ header {
     background-position: center bottom;
     height: 18rem;
     width: 100%;
+    background-size: 320px;
     background-size: 32rem;
     margin: 0;
 
@@ -42,14 +46,20 @@ header {
 
     @include breakpoint($large) {
       width: $width_max;
+      background-size: 360px;
       background-size: 40rem;
+      background-position: 10px bottom;
       background-position: 1rem bottom
     }
   }
 
   .lt-ie9 & {
     .brand {
-      background-image: url(/images/logo.png);
+      background-image: url(../images/logo-fallback.jpg);
+      left: 0;
+      margin: 0 0 20px 20px;
+      width: 400px;
+      height: 320px;
     }
   }
 }

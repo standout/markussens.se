@@ -3,6 +3,7 @@ footer {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAPCAQAAAC/mnxTAAAANUlEQVQoU2OQlGQAAmRSQgKdRBaHsOkMcDkD05HI4nQG+J03SEISf7jh8gKdATFOwlRDXwAA0ucIo9dh8k4AAAAASUVORK5CYII=);
   background-repeat: repeat;
   background-position: top left;
+  padding: 40px;
   padding: 4rem;
   @include font-size(14);
   @include clearfix;
@@ -28,11 +29,13 @@ footer {
 
   .inner--left {
     color: $white;
+    margin-bottom: 20px;
     margin-bottom: 2rem;
     @include breakpoint($large) {
       margin-bottom: 0
     }
     p {
+      margin: 5px 0;
       margin: .5rem 0;
       text-shadow: 0 1px 1px darken($teal,15%);
       clear: both;
@@ -41,6 +44,7 @@ footer {
       clear: both;
       margin-left: auto;
       margin-right: auto;
+      margin-bottom: 7px;
       margin-bottom: .75rem;
       display: block;
       width: $three_quarters;
@@ -81,6 +85,7 @@ footer {
       color: darken($teal, 15%);
       font-style: italic;
       font-weight: 400;
+      padding-top: 5px;
       padding-top: .5rem;
       @include breakpoint($large) {
         text-align: right;
