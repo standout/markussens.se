@@ -24,6 +24,13 @@
 
             <span>Grundad 1957 till minne av makarna Markussen</span>
 
+            {% assign standout = site.data.standout %}
+            <div class="Standout">
+              <a href="{{standout.url}}" title="{{standout.title}}">
+                <img alt="{{standout.alt}}" src="{{standout.logo}}"/>
+              </a>
+            </div>
+
           </div>
         </div>
       </footer>
