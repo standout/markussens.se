@@ -1,0 +1,18 @@
+.ImageWrapper {
+  margin: 0;
+
+  &.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &.max-300 img { max-width: 300px; }
+  &.max-500 img { max-width: 500px; }
+
+  img {
+    width: 100%;
+    margin-bottom: 0.5em;
+    @include filter(grayscale(1));
+    &:hover { @include filter(none); }
+  }
+}

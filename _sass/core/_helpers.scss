@@ -57,6 +57,15 @@
   background-repeat: no-repeat;
 }
 
+// [doc] Filter [/doc]
+@mixin filter($params) {
+  -webkit-filter: $params;
+     -moz-filter: $params;
+      -ms-filter: $params;
+       -o-filter: $params;
+          filter: $params;
+}
+
 // [doc] Calc() [/doc]
 @mixin calc($property, $expression) {
   #{$property}: -webkit-calc(#{$expression});
