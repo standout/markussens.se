@@ -22,11 +22,11 @@ permalink: /presentation/
 
   Stipendier utgår för pågående studier vid universitet och högskolor (grund-
   och avancerad utbildning), yrkeshögskoleutbildningar eller motsvarande
-  utbildningar.
+  utbildningar i Sverige eller utomlands.
 
-  Stipendium kan erhållas *en gång* under studietiden Efter prövning kan
-  dock stipendium erhållas en andra gång för studier utomlands. Planerade
-  studier utomlands måste dokumenteras med intyg etc.
+  Stipendium kan erhållas *en gång* under studietiden Efter prövning kan dock
+  stipendium erhållas en andra gång för särskilt kostsamma studier.
+  Dessa studier måste dokumenteras med intyg etc.
 
   <span class="sub--section-icon" data-icon="b"></span>
   <h3>Stipendier för grundutbildning</h3>
@@ -47,18 +47,18 @@ permalink: /presentation/
 
   Vid urvalet av stipendiater tittar styrelsen på uppnådda studieresultat med
   hänsyn till den tid som studierna har bedrivits. I möjligaste mån tas hänsyn
-  till ämnesområde, lärartjänstgöring, barnledighet etc. Dessutom tittar man på
-  omfattningen av publicerade vetenskapliga artiklar, aktivt deltagande i
-  internationella konferenser och andra förhållande som visar på ett stort
-  engagemang i studierna.
+  till lärartjänstgöring, barnledighet etc. Dessutom tittar man på omfattningen
+  av publicerade vetenskapliga artiklar, aktivt deltagande i internationella
+  konferenser och andra förhållande som visar på ett stort engagemang i
+  studierna.
 
   Stipendiet överlämnas vid en högtidlig ceremoni, där stipendiaterna
   personligen närvarar och ger en populärvetenskaplig föreläsning om sin
   forskning. Den som tilldelas ett forskarstipendium förväntas personligen ta
   emot stipendiet.
 
-  2015 delas forskarstipendierna ut lördagen den 28 mars på Teleborgs Slott,
-  Växjö.
+  2017 kommer forskarstipendierna att delas ut lördagen den 1 april på
+  Teleborgs Slott, Växjö.
 
   <span class="sub--section-icon" data-icon="e"></span>
   <h3>Utbetalning av stipendierna</h3>
