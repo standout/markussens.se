@@ -65,8 +65,8 @@ Susanna Nordmark           | Linnéuniversitetet    |  Teknik
 
 <p class="ImageWrapper max-300" markdown="1">
 
-<a href="/images/2016-stipendiater.jpg">
-  <img src="/images/2016-stipendiater.jpg" alt="Stipendiater 2016"/>
+<a href="/images/2016-05-25-stipendiater.jpg">
+  <img src="/images/2016-05-25-stipendiater.jpg" alt="Stipendiater 2016"/>
 </a>
 
 Från vänster: Susanna Nordmark, Alexandra Rundberg Nilsson, Elin Eis,
