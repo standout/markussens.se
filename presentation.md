@@ -83,7 +83,7 @@ permalink: /presentation/
 
   Styrelsen består av sju personer. De utses med hänsyn till makarna Markussens
   önskemål om representation för landsting, länsförvaltning och
-  utbildningsväsen. Styrelsen har 2015 följande ledamöter:
+  utbildningsväsen. Styrelsen har följande ledamöter:
 
   - Länsrådet Lennart Johansson, ordförande
   - Professor Börje Nilsson, vice ordförande
