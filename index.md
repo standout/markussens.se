@@ -55,7 +55,7 @@ Alexandra Rundberg Nilsson | Lunds universitet     |  Medicin
 Elin Eis                   | Durham University UK  |  Kemi
 Klas Nilsson               | Lunds universitet     |  Statsvetenskap
 Linda Mossberg             | Göteborgs universitet |  Socialt arbete
-Susanna Nordmark           | Linnéuniversitetet    |  Teknik
+Susanna Nordmark           | Linnéuniversitetet    |  Medieteknik
 
 </div>
 

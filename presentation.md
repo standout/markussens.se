@@ -86,7 +86,7 @@ permalink: /presentation/
   utbildningsväsen. Styrelsen har följande ledamöter:
 
   - Länsrådet Lennart Johansson, ordförande
-  - Professor Börje Nilsson, vice ordförande
+  - Professor Magnus Hellgren, vice ordförande
   - Professor Peter Aronsson
   - Förutvarande kommundirektör Irene Hedfors
   - Verkställande direktör Magnus Hellgren
