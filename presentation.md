@@ -86,13 +86,12 @@ permalink: /presentation/
   utbildningsväsen. Styrelsen har följande ledamöter:
 
   - Länsrådet Lennart Johansson, ordförande
-  - Professor Magnus Hellgren, vice ordförande
+  - Verkställande direktör Magnus Hellgren, vice ordförande
   - Professor Peter Aronsson
   - Förutvarande kommundirektör Irene Hedfors
-  - Verkställande direktör Magnus Hellgren
   - Landstingsledamot Christina Lindqvist
   - Utbildningskonsult Gudrun Lundqvist
-  - Sekreterare är Björn Hedin.
+  - Professor Börje Nilsson
 
   Styrelsen träffas två gånger per år. Vid det första mötet beslutas  om vilka
   doktorander som ska få forskarstipendium. Vid det andra tillfället bestäms
