@@ -57,7 +57,7 @@ permalink: /presentation/
   forskning. Den som tilldelas ett forskarstipendium förväntas personligen ta
   emot stipendiet.
 
-  2017 kommer forskarstipendierna att delas ut lördagen den 1 april på
+  2018 kommer forskarstipendierna att delas ut lördagen den 7 april på
   Teleborgs Slott, Växjö.
 
   <span class="sub--section-icon" data-icon="e"></span>
@@ -66,8 +66,7 @@ permalink: /presentation/
   Utbetalning sker via det bankkonto som angivits i stipendieansökan. Normalt
   sker utbetalningen under april månad. Stipendiernas storlek varierar från år
   till år beroende på antal stipendier och avkastningen på studiefondens
-  tillgångar. 2014 delade fonden ut 128 stipendier á 4 500 kr och fem
-  forskarstipendier på vardera 50 000 kr.
+  tillgångar.
 
   <span class="sub--section-icon" data-icon="d"></span>
   <h3>Ansökningstid</h3>
@@ -84,14 +83,15 @@ permalink: /presentation/
   Styrelsen består av sju personer. De utses med hänsyn till makarna Markussens
   önskemål om representation för landsting, länsförvaltning och
   utbildningsväsen. Styrelsen har följande ledamöter:
-
-  - Länsrådet Lennart Johansson, ordförande
-  - Verkställande direktör Magnus Hellgren, vice ordförande
-  - Professor Peter Aronsson
-  - Förutvarande kommundirektör Irene Hedfors
-  - Landstingsledamot Christina Lindqvist
+  
+  - Funktionschef Anders Meijer, sekreterare
+  - Verkställande direktör Magnus Hellgren, vice ordförande 
   - Utbildningskonsult Gudrun Lundqvist
+  - Förutvarande länsrådet Lennart Johansson, ordförande 
+  - Regionledamot Christina Lindqvist
   - Professor Börje Nilsson
+  - Filosofie doktor Marie Eriksson, 
+  - Marcus Brunskog (ej med med bild)
 
   Styrelsen träffas två gånger per år. Vid det första mötet beslutas  om vilka
   doktorander som ska få forskarstipendium. Vid det andra tillfället bestäms
@@ -103,12 +103,11 @@ permalink: /presentation/
 
   <div class="ImageWrapper center max-500">
 
-  <a href="/images/2015-03-28-styrelsen.jpg">
-    <img src="/images/2015-03-28-styrelsen.jpg" alt="Styrelsen 2015"/>
+  <a href="/2017-04-01-styrelsen.jpg">
+    <img src="/2017-04-01-styrelsen.jpg" alt="Styrelsen 2017"/>
   </a>
 
-  Från vänster Irene Hedfors, Christina Lindavist, Peter Aronsson, Björn Hedin,
-  Magnus Hellgren, Gudrun Lundqvist, Lennart Johansson och Börje Nilsson
+  Från vänster Anders Meijer, Magnus Hellgren, Gudrun Lundqvist, Lennart Johansson, Christina Lindqvist, Börje Nilsson och Marie Eriksson
 
   </div>
 

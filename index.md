@@ -45,17 +45,19 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="Col medium span-8">
 
-Årets utlysning av stipendier till doktorander resulterade i att 15 ansökningar
-kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr till:
+Årets utlysning av stipendier till doktorander resulterade i att 16 ansökningar
+kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr till:
+
 
 <div markdown="1" class="TableWrapper">
 
 -------------------------- | --------------------- | ----------------
-Alexandra Rundberg Nilsson | Lunds universitet     |  Medicin
-Elin Eis                   | Durham University UK  |  Kemi
-Klas Nilsson               | Lunds universitet     |  Statsvetenskap
-Linda Mossberg             | Göteborgs universitet |  Socialt arbete
-Susanna Nordmark           | Linnéuniversitetet    |  Medieteknik
+Christina Hermanrud        | Karolinska Institutet | Neuroimmunologi
+Gustav Cedersjö            | Lunds Universitet     | Datavetenskap
+Johanna Sernevi Säll       | Lunds universitet     | Medicin
+Mathias Karlsson           | Linneuniversitetet    | Ekonomi
+Tove Larsson  		         | Uppsala universitet   | Språkvetenskap         
+
 
 </div>
 
@@ -65,12 +67,12 @@ Susanna Nordmark           | Linnéuniversitetet    |  Medieteknik
 
 <p class="ImageWrapper max-300" markdown="1">
 
-<a href="/images/2016-05-25-stipendiater.jpg">
-  <img src="/images/2016-05-25-stipendiater.jpg" alt="Stipendiater 2016"/>
+<a href="/2017-04-01-stipendiater.jpg">
+  <img src="/2017-04-01-stipendiater.jpg" alt="Stipendiater 2017"/>
 </a>
 
-Från vänster: Susanna Nordmark, Alexandra Rundberg Nilsson, Elin Eis,
-Linda Mossberg och Klas Nilsson
+Från vänster: Mathias Karlsson, Johanna Sernevi Säll, Gustav Cedersjö, Tove Larsson och Christina Hermanrud
+
 </p>
 
 </div>
@@ -78,6 +80,6 @@ Linda Mossberg och Klas Nilsson
 </div>
 
 Studiefonden delar också ut stipendier till studenter som läser på högskolor.
-I år delades ut 130 stipendier à 4 500 kr. Den totala stipendieutdelningen
-inklusive forskarstipendierna blev 835 000 kr.
+I år delades ut 119 stipendier à 5000 kr. Den totala stipendieutdelningen
+inklusive forskarstipendierna blev 845 000 kr.
 </section>
