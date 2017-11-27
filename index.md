@@ -53,9 +53,9 @@ kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr till:
 
 -------------------------- | --------------------- | ----------------
 Christina Hermanrud        | Karolinska Institutet | Neuroimmunologi
-Gustav Cedersjö            | Lunds Universitet     | Datavetenskap
+Gustav Cedersjö            | Lunds universitet     | Datavetenskap
 Johanna Sernevi Säll       | Lunds universitet     | Medicin
-Mathias Karlsson           | Linneuniversitetet    | Ekonomi
+Mathias Karlsson           | Linnéuniversitetet    | Ekonomi
 Tove Larsson  		         | Uppsala universitet   | Språkvetenskap         
 
 
