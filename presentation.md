@@ -84,10 +84,9 @@ permalink: /presentation/
   önskemål om representation för landsting, länsförvaltning och
   utbildningsväsen. Styrelsen har följande ledamöter:
   
-  - Funktionschef Anders Meijer, sekreterare
-  - Verkställande direktör Magnus Hellgren, vice ordförande 
-  - Utbildningskonsult Gudrun Lundqvist
   - Förutvarande länsrådet Lennart Johansson, ordförande 
+  - Verkställande direktör Magnus Hellgren, vice ordförande 
+  - Utbildningskonsult Gudrun Lundqvist 
   - Regionledamot Christina Lindqvist
   - Professor Börje Nilsson
   - Filosofie doktor Marie Eriksson
@@ -100,6 +99,8 @@ permalink: /presentation/
   För granskning av fondens räkenskaper och förvaltning utser styrelsen två
   revisorer, som utses för tre år i sänder. Revisorer för 2015-2017 är Per
   Magnusson, auktoriserad revisor, och Claes-Olof Kilander, skatterevisor.
+  
+  Markussens ständige sekreterare är funktionschef Anders Meijer som tar hand om studiefondens administration och löpande verksamhet.
 
   <div class="ImageWrapper center max-500">
 
