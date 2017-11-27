@@ -90,8 +90,8 @@ permalink: /presentation/
   - Förutvarande länsrådet Lennart Johansson, ordförande 
   - Regionledamot Christina Lindqvist
   - Professor Börje Nilsson
-  - Filosofie doktor Marie Eriksson, 
-  - Marcus Brunskog (ej med med bild)
+  - Filosofie doktor Marie Eriksson
+  - Marcus Brunskog (ej med med bild)
 
   Styrelsen träffas två gånger per år. Vid det första mötet beslutas  om vilka
   doktorander som ska få forskarstipendium. Vid det andra tillfället bestäms
