@@ -48,6 +48,7 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 Årets utlysning av stipendier till doktorander resulterade i att 16 ansökningar
 kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr till:
 
+
 <div markdown="1" class="TableWrapper">
 
 -------------------------- | --------------------- | ----------------
