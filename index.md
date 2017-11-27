@@ -34,7 +34,7 @@ Det är 50 år sedan stiftelsen Markussens studiefond delade ut sina första
 stipendier. Studiefonden är grundad på ett testamente som Markus och Karen
 Markussen upprättade 1944. Makarna hade förordat att huvuddelen av deras
 behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefond”.
-
+Test
 </section>
 
 <section class="content--regular" markdown="1">
