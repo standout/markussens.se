@@ -83,14 +83,6 @@ permalink: /presentation/
   Styrelsen består av sju personer. De utses med hänsyn till makarna Markussens
   önskemål om representation för landsting, länsförvaltning och
   utbildningsväsen. Styrelsen har följande ledamöter:
-
-  - Länsrådet Lennart Johansson, ordförande
-  - Verkställande direktör Magnus Hellgren, vice ordförande
-  - Professor Peter Aronsson
-  - Förutvarande kommundirektör Irene Hedfors
-  - Landstingsledamot Christina Lindqvist
-  - Utbildningskonsult Gudrun Lundqvist
-  - Professor Börje Nilsson
   
   - Funktionschef Anders Meijer, sekreterare
   - Verkställande direktör Magnus Hellgren, vice ordförande 
