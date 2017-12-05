@@ -12,7 +12,11 @@ permalink: /presentation/
   Stiftelsen Markussens studiefond delar ut stipendier till "*behövande*,
   *skötsamma* och *särskilt begåvade*" studerande som är födda i Kronobergs län,
   det vill säga i någon av kommunerna Alvesta, Lessebo, Ljungby, Markaryd,
-  Tingsryd, Uppvidinge, Växjö eller Älmhult.
+  Tingsryd, Uppvidinge, Växjö eller Älmhult. Det är därför viktigt att ett personbevis som visar födelseort finns med i ansökan.
+  
+  OBS! Körkort saknar uppgift om födelseort och räcker därför inte som personbevis.
+  
+  
   </div>
 
   <span class="sub--section-icon" data-icon="a"></span>
