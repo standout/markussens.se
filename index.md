@@ -21,6 +21,10 @@ Ansökan ska vara inkommen till studiefonden senast **den 20 februari**.
 
 Ansökan om forskarstipendium ska vara studiefonden tillhanda senast **den 31
 januari**.
+
+Den nya dataskyddsförordningen, GDPR, ställer nya krav på hur vi hanterar personuppgifter. Personuppgifter, namn och personnummer, om vem som fått stipendium protokollförs och sparas. Detta för att Markussens studiefond ska uppfylla de krav på redovisning som ställs på stiftelsen. 
+Alla övriga personuppgifter raderas efter att beslut om årets stipendiater är taget och utbetalat.
+
 </div>
 
 </section>
