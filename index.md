@@ -22,7 +22,7 @@ Ansökan ska vara inkommen till studiefonden senast **den 20 februari**.
 Ansökan om forskarstipendium ska vara studiefonden tillhanda senast **den 31
 januari**.
 
-Den nya dataskyddsförordningen, GDPR, ställer nya krav på hur vi hanterar personuppgifter. Personuppgifter, namn och personnummer, om vem som fått stipendium protokollförs och sparas. Detta för att Markussens studiefond ska uppfylla de krav på redovisning som ställs på stiftelsen. 
+Den nya dataskyddsförordningen, GDPR, ställer nya krav på hur vi hanterar personuppgifter. Personuppgifter, namn och personnummer, om vem som fått stipendium protokollförs och sparas. Detta för att Markussens studiefond ska uppfylla de krav på redovisning som ställs på stiftelsen.
 Alla övriga personuppgifter raderas efter att beslut om årets stipendiater är taget och utbetalat.
 
 </div>
@@ -49,19 +49,19 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="Col medium span-8">
 
-Årets utlysning av stipendier till doktorander resulterade i att 16 ansökningar
-kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr till:
+2018 års utlysning av stipendier till doktorander resulterade i att 10
+ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
+till:
 
 
 <div markdown="1" class="TableWrapper">
 
--------------------------- | --------------------- | ----------------
-Christina Hermanrud        | Karolinska Institutet | Neuroimmunologi
-Gustav Cedersjö            | Lunds universitet     | Datavetenskap
-Johanna Sernevi Säll       | Lunds universitet     | Medicin
-Mathias Karlsson           | Linnéuniversitetet    | Ekonomi
-Tove Larsson  		         | Uppsala universitet   | Språkvetenskap         
-
+------------------- | --------------------------- | ----------------
+Bergsten, Johan     | Chalmers tekniska högskola  | Mikroteknologi och nanovetenskap
+Larson, Simon       | Kungliga tekniska högskolan | Matematik
+Samuelsson, Kristin | Karolinska Institutet       | Medicin
+Walther, Lisa       | Lunds universitet           | Medicinska fakulteten
+Bengtsson, Petter   | Umeå universitet            | Humanistiska fakulteten
 
 </div>
 
@@ -71,11 +71,12 @@ Tove Larsson  		         | Uppsala universitet   | Språkvetenskap      �
 
 <p class="ImageWrapper max-300" markdown="1">
 
-<a href="/2017-04-01-stipendiater.jpg">
-  <img src="/2017-04-01-stipendiater.jpg" alt="Stipendiater 2017"/>
+<a href="/2018-stipendiater.jpg">
+  <img src="/2018-stipendiater.jpg" alt="Stipendiater 2018"/>
 </a>
 
-Från vänster: Mathias Karlsson, Johanna Sernevi Säll, Gustav Cedersjö, Tove Larsson och Christina Hermanrud
+Från vänster: Johan Bergsten, Simon Larson, Kristin Samuelsson, Lisa Walther och Petter Bengtsson
+
 
 </p>
 
@@ -84,6 +85,6 @@ Från vänster: Mathias Karlsson, Johanna Sernevi Säll, Gustav Cedersjö, Tove 
 </div>
 
 Studiefonden delar också ut stipendier till studenter som läser på högskolor.
-I år delades ut 119 stipendier à 5000 kr. Den totala stipendieutdelningen
-inklusive forskarstipendierna blev 845 000 kr.
+I år delades ut 112 stipendier à 5000 kr. Den totala stipendieutdelningen
+inklusive forskarstipendierna blev 810 000 kr.
 </section>
