@@ -49,19 +49,19 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="Col medium span-8">
 
-2018 års utlysning av stipendier till doktorander resulterade i att 10
+2019 års utlysning av stipendier till doktorander resulterade i att 11
 ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
 till:
 
 
 <div markdown="1" class="TableWrapper">
 
-------------------- | --------------------------- | ----------------
-Bergsten, Johan     | Chalmers tekniska högskola  | Mikroteknologi och nanovetenskap
-Larson, Simon       | Kungliga tekniska högskolan | Matematik
-Samuelsson, Kristin | Karolinska Institutet       | Medicin
-Walther, Lisa       | Lunds universitet           | Medicinska fakulteten
-Bengtsson, Petter   | Umeå universitet            | Humanistiska fakulteten
+------------------- | -------------------------- | ----------------------------
+Peter Dahlgren      | Göteborgs universitet      | Journalistik, medier och kommunikation
+Carin Eklöf-Östberg | Chalmers Tekniska Högskola | Kemi och kemiteknik
+Dan Fransson        | Göteborgs universitet      | Idrottsvetenskap
+Anna Larsson        | Göteborgs universitet      | Kemi och molekylärbiologi
+Helena Roos         | Linnéuniversitetet         | Matematik / Matematikdidaktik
 
 </div>
 
@@ -71,12 +71,11 @@ Bengtsson, Petter   | Umeå universitet            | Humanistiska fakulteten
 
 <p class="ImageWrapper max-300" markdown="1">
 
-<a href="/2018-stipendiater.jpg">
-  <img src="/2018-stipendiater.jpg" alt="Stipendiater 2018"/>
+<a href="/2019-stipendiater.jpg">
+  <img src="/2019-stipendiater.jpg" alt="Stipendiater 2019"/>
 </a>
 
-Från vänster: Johan Bergsten, Simon Larson, Kristin Samuelsson, Lisa Walther och Petter Bengtsson
-
+Från vänster: Peter Dahlgren, Anna Larsson, Carin Eklöf-Östberg, Dan Fransson, Helena Roos
 
 </p>
 
@@ -84,7 +83,8 @@ Från vänster: Johan Bergsten, Simon Larson, Kristin Samuelsson, Lisa Walther o
 
 </div>
 
+
 Studiefonden delar också ut stipendier till studenter som läser på högskolor.
-I år delades ut 112 stipendier à 5000 kr. Den totala stipendieutdelningen
-inklusive forskarstipendierna blev 810 000 kr.
+I år delades ut 93 stipendier à 5000 kr. Den totala stipendieutdelningen
+inklusive forskarstipendierna blev i år 715 000 kr.
 </section>
