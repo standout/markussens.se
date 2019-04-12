@@ -13,10 +13,10 @@ permalink: /presentation/
   *skötsamma* och *särskilt begåvade*" studerande som är födda i Kronobergs län,
   det vill säga i någon av kommunerna Alvesta, Lessebo, Ljungby, Markaryd,
   Tingsryd, Uppvidinge, Växjö eller Älmhult. Det är därför viktigt att ett personbevis som visar födelseort finns med i ansökan.
-  
+
   OBS! Körkort saknar uppgift om födelseort och räcker därför inte som personbevis.
-  
-  
+
+
   </div>
 
   <span class="sub--section-icon" data-icon="a"></span>
@@ -85,34 +85,36 @@ permalink: /presentation/
   <h3>Styrelsen</h3>
 
   Styrelsen består av sju personer. De utses med hänsyn till makarna Markussens
-  önskemål om representation för landsting, länsförvaltning och
-  utbildningsväsen. Styrelsen har följande ledamöter:
-  
-  - Förutvarande länsrådet Lennart Johansson, ordförande 
-  - Verkställande direktör Magnus Hellgren, vice ordförande 
-  - Utbildningskonsult Gudrun Lundqvist 
-  - Regionledamot Christina Lindqvist
-  - Professor Börje Nilsson
-  - Filosofie doktor Marie Eriksson
-  - Marcus Brunskog (ej med med bild)
+  önskemål om representation för region, länsförvaltning och utbildningsväsen.
+  Styrelsen har följande ledamöter:
 
-  Styrelsen träffas två gånger per år. Vid det första mötet beslutas  om vilka
+  - Lennart Johansson, ordförande
+  - Magnus Hellgren, vice ordförande
+  - Gudrun Lundqvist
+  - Christina Lindqvist
+  - Marie Eriksson
+  - Marcus Brunskog
+
+  Styrelsen träffas två gånger per år. Vid det första mötet beslutas om vilka
   doktorander som ska få forskarstipendium. Vid det andra tillfället bestäms
   vilka studenter som ska belönas.
 
   För granskning av fondens räkenskaper och förvaltning utser styrelsen två
-  revisorer, som utses för tre år i sänder. Revisorer för 2015-2017 är Per
-  Magnusson, auktoriserad revisor, och Claes-Olof Kilander, skatterevisor.
-  
-  Markussens ständige sekreterare är funktionschef Anders Meijer som tar hand om studiefondens administration och löpande verksamhet.
+  revisorer, som utses för tre år i sänder. Revisorer är Per Magnusson och
+  Claes-Olof Kilander.
+
+  Markussens ständige sekreterare är Anders Meijer som tar hand om studiefondens
+  administration och löpande verksamhet.
 
   <div class="ImageWrapper center max-500">
 
-  <a href="/2017-04-01-styrelsen.jpg">
-    <img src="/2017-04-01-styrelsen.jpg" alt="Styrelsen 2017"/>
+  <a href="/2019-styrelsen.jpg">
+    <img src="/2019-styrelsen.jpg" alt="Styrelsen 2019"/>
   </a>
 
-  Från vänster Anders Meijer, Magnus Hellgren, Gudrun Lundqvist, Lennart Johansson, Christina Lindqvist, Börje Nilsson och Marie Eriksson
+  Från vänster Anders Meijer, Lennart Johansson, Christina Lindqvist, Gudrun
+  Lundqvist, Marie Eriksson, Magnus Hellgren och Markus Brunskog (en plats är
+  vakant).
 
   </div>
 
