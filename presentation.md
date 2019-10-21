@@ -35,12 +35,11 @@ permalink: /presentation/
   <span class="sub--section-icon" data-icon="b"></span>
   <h3>Stipendier för grundutbildning</h3>
 
-  Studieresultat från *minst* två terminers studier på den aktuella utbildningen
-  måste kunna redovisas. Undantag kan göras för 1-åriga utbildningar utomlands.
-  Studierna måste bedrivas på heltid och i normal studietakt, dvs. 30 ECTS-poäng
-  per termin eller 100 Yh-poäng. Om studierna har ett annat upplägg, t.ex.
-  utlandsstudier, måste detta anges. Uppnådda studieresultat måste dokumenteras
-  med studieintyg. *Det är viktigt att den senaste terminens alla poäng är med.*
+  Studieresultat från minst fyra högskoleterminers studier (120 poäng) på den aktuella utbildningen måste kunna redovisas. Undantag kan göras för 1-åriga utbildningar utomlands. Studierna måste bedrivas på heltid och i normal studietakt, dvs. 30 ECTS-poäng per termin eller 100 Yh-poäng.
+
+  För yrkeshögskoleutbildningar eller motsvarande utbildningar i Sverige och utomlands gäller dock fortfarande kravet på två genomförda terminer då dessa utbildningar sällan är mer än fyra terminer.
+
+  Om studierna har ett annat upplägg, t.ex. utlandsstudier, måste detta anges. Uppnådda studieresultat måste dokumenteras med studieintyg. *Det är viktigt att den senaste terminens alla poäng är med.*
 
   <span class="sub--section-icon" data-icon="c"></span>
   <h3>Forskarstipendier</h3>
