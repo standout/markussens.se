@@ -39,7 +39,7 @@ permalink: /presentation/
 
   För yrkeshögskoleutbildningar eller motsvarande utbildningar i Sverige och utomlands gäller dock fortfarande kravet på två genomförda terminer då dessa utbildningar sällan är mer än fyra terminer.
 
-  Om studierna har ett annat upplägg, t.ex. utlandsstudier, måste detta anges. Uppnådda studieresultat måste dokumenteras med studieintyg. *Det är viktigt att den senaste terminens alla poäng är med.*
+  Om studierna har ett annat upplägg, t.ex. utlandsstudier, måste detta anges. Uppnådda studieresultat måste dokumenteras med studieintyg. **Det är viktigt att den senaste terminens alla poäng är med.**
 
   <span class="sub--section-icon" data-icon="c"></span>
   <h3>Forskarstipendier</h3>
