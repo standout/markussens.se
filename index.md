@@ -47,37 +47,22 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="Row">
 
-<div class="Col medium span-8">
+<div class="Col medium span-12">
 
-2019 års utlysning av stipendier till doktorander resulterade i att 11
-ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
+2020 års utlysning av stipendier till doktorander resulterade i att 14
+ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
 till:
-
 
 <div markdown="1" class="TableWrapper">
 
-------------------- | -------------------------- | ----------------------------
-Peter Dahlgren      | Göteborgs universitet      | Journalistik, medier och kommunikation
-Carin Eklöf-Östberg | Chalmers Tekniska Högskola | Kemi och kemiteknik
-Dan Fransson        | Göteborgs universitet      | Idrottsvetenskap
-Anna Larsson        | Göteborgs universitet      | Kemi och molekylärbiologi
-Helena Roos         | Linnéuniversitetet         | Matematik / Matematikdidaktik
+----------------------------- | ----------------------------- | -----------------------------
+Ljungqvist, Oskar             | Linköping universitet         | Avdelningen för reglerteknik
+Nilsson, Kajsa                | Lunds Universitet             | Lunds tekniska högskola
+Landberg, Jenny               | Danmarks Tekniska Universitet | DTU Biosustain/Bioteknik
+Ludvigsson Wallette, Martin   | Linnéuniversitetet            | Ekonomihögskolan
+Önnerfors, Martin             | Lunds Universitet             | Ekonomisk historia
 
 </div>
-
-</div>
-
-<div class="Col medium span-4">
-
-<p class="ImageWrapper max-300" markdown="1">
-
-<a href="/2019-stipendiater.jpg">
-  <img src="/2019-stipendiater.jpg" alt="Stipendiater 2019"/>
-</a>
-
-Från vänster: Peter Dahlgren, Anna Larsson, Carin Eklöf-Östberg, Dan Fransson, Helena Roos
-
-</p>
 
 </div>
 
@@ -86,5 +71,5 @@ Från vänster: Peter Dahlgren, Anna Larsson, Carin Eklöf-Östberg, Dan Fransso
 
 Studiefonden delar också ut stipendier till studenter som läser på högskolor.
 I år delades ut 93 stipendier à 5000 kr. Den totala stipendieutdelningen
-inklusive forskarstipendierna blev i år 715 000 kr.
+inklusive forskarstipendierna blev i år 690 000 kr.
 </section>
