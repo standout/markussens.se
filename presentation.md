@@ -93,6 +93,7 @@ permalink: /presentation/
   - Christina Lindqvist
   - Marie Eriksson
   - Marcus Brunskog
+  - Katarina Rupar Gadd
 
   Styrelsen träffas två gånger per år. Vid det första mötet beslutas om vilka
   doktorander som ska få forskarstipendium. Vid det andra tillfället bestäms
@@ -112,8 +113,8 @@ permalink: /presentation/
   </a>
 
   Från vänster Anders Meijer, Lennart Johansson, Christina Lindqvist, Gudrun
-  Lundqvist, Marie Eriksson, Magnus Hellgren och Markus Brunskog (en plats är
-  vakant).
+  Lundqvist, Marie Eriksson, Magnus Hellgren och Markus Brunskog samt
+  Katarina Rupar Gadd som inte är med på bild.
 
   </div>
 
