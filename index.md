@@ -49,18 +49,17 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="Col medium span-12">
 
-2020 års utlysning av stipendier till doktorander resulterade i att 14
-ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
+2021 års utlysning av stipendier till doktorander resulterade i att 7
+ansökningar kom in. Styrelsen beslutar att dela ut fyra stipendier à 50 000 kr
 till:
 
 <div markdown="1" class="TableWrapper">
 
 ----------------------------- | ----------------------------- | -----------------------------
-Ljungqvist, Oskar             | Linköping universitet         | Avdelningen för reglerteknik
-Nilsson, Kajsa                | Lunds Universitet             | Lunds tekniska högskola
-Landberg, Jenny               | Danmarks Tekniska Universitet | DTU Biosustain/Bioteknik
-Ludvigsson Wallette, Martin   | Linnéuniversitetet            | Ekonomihögskolan
-Önnerfors, Martin             | Lunds Universitet             | Ekonomisk historia
+Qvistgaard, Maria             | Linnéuniversitetet            | Vårdvetenskap
+Porsfelt, Robin               | Stockholms universitet        | Sociologi
+Wahlsten, Adam                | ETH Zürich                    | Maskinteknik /Biomekanik
+Jensdotter, Linnea            | Uppsala universitet           | Teologiska fakulteten, religionssociologi
 
 </div>
 
@@ -70,6 +69,6 @@ Ludvigsson Wallette, Martin   | Linnéuniversitetet            | Ekonomihögskol
 
 
 Studiefonden delar också ut stipendier till studenter som läser på högskolor.
-I år delades ut 93 stipendier à 5000 kr. Den totala stipendieutdelningen
-inklusive forskarstipendierna blev i år 690 000 kr.
+I år delades ut 60 stipendier à 6000 kr. Den totala stipendieutdelningen
+inklusive forskarstipendierna blev i år 560 000 kr.
 </section>
