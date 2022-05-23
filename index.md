@@ -43,23 +43,32 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <section class="content--regular" markdown="1">
 
+<div class="ImageWrapper center max-500">
+
+<a href="/images/2022-stipendiater.jpg">
+  <img src="/images/2022-stipendiater.jpg" alt="Stipendiater 2022"/>
+</a>
+
+</div>
+
 <h2 class="title--section">Årets stipendieutdelning</h2>
 
 <div class="Row">
 
 <div class="Col medium span-12">
 
-2021 års utlysning av stipendier till doktorander resulterade i att 7
-ansökningar kom in. Styrelsen beslutar att dela ut fyra stipendier à 50 000 kr
+2022 års utlysning av stipendier till doktorander resulterade i att 11
+ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
 till:
 
 <div markdown="1" class="TableWrapper">
 
------------------------------ | ----------------------------- | -----------------------------
-Qvistgaard, Maria             | Linnéuniversitetet            | Vårdvetenskap
-Porsfelt, Robin               | Stockholms universitet        | Sociologi
-Wahlsten, Adam                | ETH Zürich                    | Maskinteknik /Biomekanik
-Jensdotter, Linnea            | Uppsala universitet           | Teologiska fakulteten, religionssociologi
+-------------------------------- | -------------------------------- | --------------------------------
+Knöös Franzén, Ludvig            | Linköpings Universitet           | Tekniska fakulteten
+Brolin, Kajsa                    | Lunds universitet                | Medicinska fakulteten
+Petersson, Julia                 | Lunds universitet                | Medicinska fakulteten
+Lundin, Filippa                  | Chalmers Tekniska Högskola       | Fysik
+Johansson, Markus                | Technical University of Denmark  | National Food Institute (ej med på bild)
 
 </div>
 
@@ -67,8 +76,4 @@ Jensdotter, Linnea            | Uppsala universitet           | Teologiska fakul
 
 </div>
 
-
-Studiefonden delar också ut stipendier till studenter som läser på högskolor.
-I år delades ut 60 stipendier à 6000 kr. Den totala stipendieutdelningen
-inklusive forskarstipendierna blev i år 560 000 kr.
 </section>
