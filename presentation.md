@@ -108,8 +108,8 @@ permalink: /presentation/
 
   <div class="ImageWrapper center max-500">
 
-  <a href="/2023-styrelsen.jpg">
-    <img src="/2023-styrelsen.jpg" alt="Styrelsen 2023"/>
+  <a href="/images/2023-styrelsen.jpg">
+    <img src="/images/2023-styrelsen.jpg" alt="Styrelsen 2023"/>
   </a>
 
   Från vänster Magnus Hellgren, Lennart Johansson, Markus Brunskog, Gudrun
