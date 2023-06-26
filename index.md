@@ -45,32 +45,36 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="ImageWrapper center max-500">
 
-<a href="/images/2022-stipendiater.jpg">
-  <img src="/images/2022-stipendiater.jpg" alt="Stipendiater 2022"/>
+<a href="/images/2023-stipendiater.jpg">
+  <img src="/images/2023-stipendiater.jpg" alt="Stipendiater 2023"/>
 </a>
 
 </div>
 
-<h2 class="title--section">Årets stipendieutdelning</h2>
+<h2 class="title--section">Forskarstipendiater 2023</h2>
 
 <div class="Row">
 
 <div class="Col medium span-12">
 
-2022 års utlysning av stipendier till doktorander resulterade i att 11
+Årets utlysning av stipendier till doktorander resulterade i att 11
 ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
-till:
+utan inbördes ordning till:
 
 <div markdown="1" class="TableWrapper">
 
 -------------------------------- | -------------------------------- | --------------------------------
-Knöös Franzén, Ludvig            | Linköpings Universitet           | Tekniska fakulteten
-Brolin, Kajsa                    | Lunds universitet                | Medicinska fakulteten
-Petersson, Julia                 | Lunds universitet                | Medicinska fakulteten
-Lundin, Filippa                  | Chalmers Tekniska Högskola       | Fysik
-Johansson, Markus                | Technical University of Denmark  | National Food Institute (ej med på bild)
+Larson, Johannes                 | SLU                              | Fakulteten för skogsvetenskap
+Andersson, Natalie               | Lunds universitet                | Medicinska fakulteten
+Böök, Martina                    | Linnéuniversitetet               | Fakulteten för konst och humaniora
+Håkansson, Camilla               | Göteborgs universitet            | Humanistiska fakulteten
+Petersson, Alexandra             | Lunds universitet                | Medicinska fakulteten (ej med på bild)
 
 </div>
+
+Styrelsen har också fått in 97 ansökningar från studerande vid uni­versi­tet,
+högskolor, yrkeshögskolor och motsvarande. Utifrån dessa ansökningar har
+styrelsen beslutat att dela ut 65 stipendier à 6 000 kronor.
 
 </div>
 
