@@ -92,7 +92,7 @@ permalink: /presentation/
   - Gudrun Lundqvist
   - Christina Lindqvist
   - Marie Eriksson
-  - Marcus Brunskog
+  - Markus Brunskog
   - Katarina Rupar Gadd
 
   Styrelsen träffas två gånger per år. Vid det första mötet beslutas om vilka
@@ -108,14 +108,13 @@ permalink: /presentation/
 
   <div class="ImageWrapper center max-500">
 
-  <a href="/2019-styrelsen.jpg">
-    <img src="/2019-styrelsen.jpg" alt="Styrelsen 2019"/>
+  <a href="/2023-styrelsen.jpg">
+    <img src="/2023-styrelsen.jpg" alt="Styrelsen 2023"/>
   </a>
 
-  Från vänster Anders Meijer, Lennart Johansson, Christina Lindqvist, Gudrun
-  Lundqvist, Marie Eriksson, Magnus Hellgren och Markus Brunskog samt
-  Katarina Rupar Gadd som inte är med på bild.
-
+  Från vänster Magnus Hellgren, Lennart Johansson, Markus Brunskog, Gudrun
+  Lundqvist, Katarina Rupar Gadd, Marie Eriksson, Christina Lindqvist
+  samt Anders Meijer.
   </div>
 
 </section>
