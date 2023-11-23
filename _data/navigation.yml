@@ -7,5 +7,8 @@
 - name: Historik
   url: /historik/
 
-- name: Ansök nu
-  url: http://app.markussens.se/
+- name: Ansök - grundstudenter
+  url: https://secure.webforum.com/nordeastiftelser/issues/publicform/ed5740ef-134d-4438-a6f0-707b0b768de0
+
+- name: Ansök - forskarstudenter
+  url: https://secure.webforum.com/nordeastiftelser/issues/publicform/7cc3c128-a9e9-4065-96ab-fe68ebad4280

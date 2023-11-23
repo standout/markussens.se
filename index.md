@@ -9,9 +9,14 @@ description: Stiftelsen Markussens studiefond delar ut stipendier tillbehövande
 Stiftelsen Markussens studiefond delar ut stipendier till *behövande*,
 *skötsamma* och särskilt begåvade studerande som är födda i Kronobergs län.
 
-<a href="http://app.markussens.se/" class="button button--primary"
-  title="Ansök nu">
-  Ansök nu
+<a href="https://secure.webforum.com/nordeastiftelser/issues/publicform/ed5740ef-134d-4438-a6f0-707b0b768de0" class="button button--primary"
+  title="Ansök - grundstudenter">
+  Ansök - grundstudenter
+</a>
+
+<a href="https://secure.webforum.com/nordeastiftelser/issues/publicform/7cc3c128-a9e9-4065-96ab-fe68ebad4280" class="button button--primary"
+  title="Ansök - forskarstudenter">
+  Ansök - forskarstudenter
 </a>
 
 <div class="alert" markdown="1">
