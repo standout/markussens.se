@@ -35,7 +35,7 @@ permalink: /presentation/
   <span class="sub--section-icon" data-icon="b"></span>
   <h3>Stipendier för grundutbildning</h3>
 
-  Studieresultat från minst fyra högskoleterminers studier (120 poäng) på den aktuella utbildningen måste kunna redovisas. Undantag kan göras för 1-åriga utbildningar utomlands. Studierna måste bedrivas på heltid och i normal studietakt, dvs. 30 ECTS-poäng per termin eller 100 Yh-poäng.
+  Studieresultat från minst tre högskoleterminers studier (90 poäng) på den aktuella utbildningen måste kunna redovisas. Undantag kan göras för 1-åriga utbildningar utomlands. Studierna måste bedrivas på heltid och i normal studietakt, dvs. 30 ECTS-poäng per termin eller 100 Yh-poäng.
 
   För yrkeshögskoleutbildningar eller motsvarande utbildningar i Sverige och utomlands gäller dock fortfarande kravet på två genomförda terminer då dessa utbildningar sällan är mer än fyra terminer.
 
@@ -59,9 +59,6 @@ permalink: /presentation/
   personligen närvarar och ger en populärvetenskaplig föreläsning om sin
   forskning. Den som tilldelas ett forskarstipendium förväntas personligen ta
   emot stipendiet.
-
-  2018 kommer forskarstipendierna att delas ut lördagen den 7 april på
-  Teleborgs Slott, Växjö.
 
   <span class="sub--section-icon" data-icon="e"></span>
   <h3>Utbetalning av stipendierna</h3>

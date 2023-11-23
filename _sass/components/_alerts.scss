@@ -7,11 +7,13 @@
   background-position: top left;
   padding: 15px;
   padding: 1.5rem;
+  margin-top: 2rem;
   @include border-radius($radius_global);
   @include box-shadow(inset 0 0 0 1px rgba($darkgray, .1));
   width: 100%;
   margin: 0 auto;
   text-align: center;
+
   @include breakpoint($large) {
     width: $three_quarters;
   }
