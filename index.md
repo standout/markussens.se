@@ -14,7 +14,7 @@ Stiftelsen Markussens studiefond delar ut stipendier till *behövande*,
   Ansök - grundstudenter
 </a>
 
-<a href="https://secure.webforum.com/nordeastiftelser/issues/publicform/7cc3c128-a9e9-4065-96ab-fe68ebad4280" class="button button--primary"
+<a href="https://secure.webforum.com/nordeastiftelser/issues/publicform/7cc3c128-a9e9-4065-96ab-fe68ebad4280" class="button button--primary lower"
   title="Ansök - forskarstudenter">
   Ansök - forskarstudenter
 </a>
