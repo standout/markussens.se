@@ -110,11 +110,11 @@ footer {
         padding: 10px;
         opacity: 0.6;
         filter: brightness(0) invert(1);
-        @include transition(opacity 0.5s, filter 0.5s, background 0.5s);
+        @include transition(all 0.5s ease);
 
         &:hover {
           opacity: 1;
-          filter: none;
+          filter: brightness(1) invert(0);
           background: rgba(0,0,0,.3);
         }
       }
