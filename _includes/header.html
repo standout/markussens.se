@@ -52,7 +52,7 @@
       <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     {% endif %}
 
-    <link rel="stylesheet" href="/stylesheets/styles.css">
+    <link rel="stylesheet" href="/stylesheets/styles.css?v={{ site.time | date: '%s' }}">
     <script src="/javascripts/vendor/modernizr-2.8.3.min.js" defer="defer"></script>
 
     <!--[if lt IE 9]>
