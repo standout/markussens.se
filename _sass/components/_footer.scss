@@ -98,6 +98,8 @@ footer {
     float: right;
     width: 288px;
     margin: 16px 0 -10px;
+    padding-left: 50px;
+    padding-right: 50px;
 
     a {
       display: block;
@@ -107,10 +109,12 @@ footer {
         float: none;
         padding: 10px;
         opacity: 0.6;
-        @include transition(background 0.5s);
+        filter: brightness(0) invert(1);
+        @include transition(opacity 0.5s, filter 0.5s, background 0.5s);
 
         &:hover {
           opacity: 1;
+          filter: none;
           background: rgba(0,0,0,.3);
         }
       }
