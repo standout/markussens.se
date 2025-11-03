@@ -50,36 +50,37 @@ behållna förmögenhet skulle tillfalla en fond benämnd ”Markussens studiefo
 
 <div class="ImageWrapper center max-500">
 
-<a href="/images/2023-stipendiater.jpg">
-  <img src="/images/2023-stipendiater.jpg" alt="Stipendiater 2023"/>
+<a href="/images/2025-stipendiater.jpg">
+  <img src="/images/2025-stipendiater.jpg" alt="Stipendiater 2025"/>
 </a>
 
 </div>
 
-<h2 class="title--section">Forskarstipendiater 2023</h2>
+<h2 class="title--section">Forskarstipendiater 2025</h2>
 
 <div class="Row">
 
 <div class="Col medium span-12">
 
 Årets utlysning av stipendier till doktorander resulterade i att 11
-ansökningar kom in. Styrelsen beslutar att dela ut fem stipendier à 50 000 kr
+ansökningar kom in. Styrelsen beslutar att dela ut fyra stipendier à 50 000 kronor
 utan inbördes ordning till:
 
 <div markdown="1" class="TableWrapper">
 
 -------------------------------- | -------------------------------- | --------------------------------
-Larson, Johannes                 | SLU                              | Fakulteten för skogsvetenskap
-Andersson, Natalie               | Lunds universitet                | Medicinska fakulteten
-Böök, Martina                    | Linnéuniversitetet               | Fakulteten för konst och humaniora
-Håkansson, Camilla               | Göteborgs universitet            | Humanistiska fakulteten
-Petersson, Alexandra             | Lunds universitet                | Medicinska fakulteten (ej med på bild)
+Ossiansson, Elin                 | Chalmers Tekniska Högskola       | Institutionen för arkitektur och byggd miljö
+Jansson, Alice                   | Lunds Universitet                | Lunds Tekniska Högskola, industriell elektroteknik och automation
+Malmberg, Micaela                | Stockholms Universitet           | Historiska institutionen
+Pedersen, Anja                   | Sveriges Lantbruksuniversitet Uppsala | Veterinärmedicinska och husdjursvetenskapliga fakulteten
 
 </div>
 
-Styrelsen har också fått in 97 ansökningar från studerande vid uni­versi­tet,
+Med på bilden är även Karin Pola, Lunds Universitet, Medicinska fakulteten, som erhöll stipendium 2024.
+
+Styrelsen har därutöver fått in 84 ansökningar från studerande vid uni­versi­tet,
 högskolor, yrkeshögskolor och motsvarande. Utifrån dessa ansökningar har
-styrelsen beslutat att dela ut 65 stipendier à 6 000 kronor.
+styrelsen beslutat att dela ut 69 stipendier à 4 000 kronor.
 
 </div>
 
