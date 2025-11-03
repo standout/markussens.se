@@ -84,34 +84,34 @@ permalink: /presentation/
   önskemål om representation för region, länsförvaltning och utbildningsväsen.
   Styrelsen har följande ledamöter:
 
-  - Lennart Johansson, ordförande
-  - Magnus Hellgren, vice ordförande
-  - Gudrun Lundqvist
-  - Christina Lindqvist
-  - Marie Eriksson
-  - Markus Brunskog
-  - Katarina Rupar Gadd
+  <p>
+    <ul class="list--unordered">
+      <li>Lennart Johansson, ordförande</li>
+      <li>Magnus Hellgren, vice ordförande</li>
+      <li>Gudrun Lundqvist</li>
+      <li>Christina Lindqvist</li>
+      <li>Marie Eriksson</li>
+      <li>Markus Brunskog</li>
+      <li>Katarina Rupar Gadd</li>
+    </ul>
+  </p>
 
-  Styrelsen träffas två gånger per år. Vid det första mötet beslutas om vilka
-  doktorander som ska få forskarstipendium. Vid det andra tillfället bestäms
-  vilka studenter som ska belönas.
+  Styrelsen har minst två möten i samband med beslut om stipendiater. Däremellan har styrelsen möten vid behov.
 
-  För granskning av fondens räkenskaper och förvaltning utser styrelsen två
-  revisorer, som utses för tre år i sänder. Revisorer är Per Magnusson och
-  Claes-Olof Kilander.
+  För granskning av fondens räkenskaper och förvaltning finns två utsedda revisorer: Per Magnusson, föreningsrevisor, och Ola Björk, auktoriserad revisor.
 
-  Markussens ständige sekreterare är Anders Meijer som tar hand om studiefondens
+  Markussens ständige sekreterare är Anders Unger som tar hand om studiefondens
   administration och löpande verksamhet.
 
   <div class="ImageWrapper center max-500">
 
-  <a href="/images/2023-styrelsen.jpg">
-    <img src="/images/2023-styrelsen.jpg" alt="Styrelsen 2023"/>
+  <a href="/images/2025-styrelsen.jpg">
+    <img src="/images/2025-styrelsen.jpg" alt="Styrelsen 2025"/>
   </a>
 
-  Från vänster Magnus Hellgren, Lennart Johansson, Markus Brunskog, Gudrun
-  Lundqvist, Katarina Rupar Gadd, Marie Eriksson, Christina Lindqvist
-  samt Anders Meijer.
+  Från vänster Magnus Hellgren, Anders Unger, Birgitta Gunnarsson,
+  Lennart Johansson, Christina Lindqvist, Marie Eriksson, Katarina Rupar Gadd,
+  Markus Brunskog
   </div>
 
 </section>
