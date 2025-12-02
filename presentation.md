@@ -88,7 +88,7 @@ permalink: /presentation/
     <ul class="list--unordered">
       <li>Lennart Johansson, ordförande</li>
       <li>Magnus Hellgren, vice ordförande</li>
-      <li>Gudrun Lundqvist</li>
+      <li>Birgitta Gunnarsson</li>
       <li>Christina Lindqvist</li>
       <li>Marie Eriksson</li>
       <li>Markus Brunskog</li>
