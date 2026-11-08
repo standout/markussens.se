@@ -46,14 +46,15 @@ permalink: /presentation/
 
   Markussens studiefond delar också ut ett antal forskarstipendier.  Stipendiet
   är avsett att underlätta slutfasen i doktorandstudierna.  Forskarstipendium
-  kan man få även om man tidigare har fått stipendium för studier på grundnivå.
+  kan man få även om man tidigare har fått stipendium för studier på grund- eller avancerad nivå.
 
-  Vid urvalet av stipendiater tittar styrelsen på uppnådda studieresultat med
-  hänsyn till den tid som studierna har bedrivits. I möjligaste mån tas hänsyn
-  till lärartjänstgöring, barnledighet etc. Dessutom tittar man på omfattningen
-  av publicerade vetenskapliga artiklar, aktivt deltagande i internationella
-  konferenser och andra förhållande som visar på ett stort engagemang i
-  studierna.
+  Vid urvalet av stipendiater bedömer styrelsen uppnådda studieresultat med
+  hänsyn till den tid som studierna har bedrivits. Hänsyn tas även till
+  omständigheter som kan ha påverkat studietakten, såsom undervisningsuppdrag,
+  föräldraledighet eller andra särskilda skäl. Vid bedömningen beaktas dessutom
+  vetenskaplig produktion i form av publicerade artiklar, aktivt deltagande i
+  nationella och internationella konferenser och andra förhållanden som visar
+  på ett stort engagemang i studierna och den vetenskapliga utvecklingen.
 
   Stipendiet överlämnas vid en högtidlig ceremoni, där stipendiaterna
   personligen närvarar och ger en populärvetenskaplig föreläsning om sin
